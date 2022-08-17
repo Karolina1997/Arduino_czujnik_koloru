@@ -1,2 +1,4 @@
 # Arduino_czujnik_koloru
-Program obslugujacy odczyt z czujnika koloru i podejmujący na jego podstawie decyzje o uruchomieniu serwomechanizmów. Program wykorzystuje przerwania.
+Niniejszy kod napisany w języku własciwym dla środowiska Arduino IDE, jest używany do obsługi maszyny sortujacej,
+obsługuje przerwania z czujnika kolorów TCS3200D. 
+Na podstawie informacji o kolorze uruchamia się odpowiednia zapadka i dokonuje się sortowanie detali.
